@@ -1,9 +1,9 @@
 # Chat with Databases using RAG
 
 ### Streamlit UI:
-![](https://github.com/samadeep/Chat-with-databases-using-RAG/blob/main/docs/static/chat_with_db.png)
+![](https://github.com/samadeep/LLM-Vector_DB-Chat/blob/main/docs/chat_with_db.png)
 ### LangSmith Monitoring:
-![](https://github.com/samadeep/Chat-with-databases-using-RAG/blob/main/docs/static/langsmith.png)
+![](https://github.com/samadeep/LLM-Vector_DB-Chat/blob/main/docs/langsmith.png)
 
 ## Overview
 
